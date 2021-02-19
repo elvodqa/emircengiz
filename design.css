@@ -11,5 +11,6 @@
 #body{
 	background-color: black;
 	margin: 0; height: 100%; 
-	overflow: hidden
+	overflow-y: hidden; /* Hide vertical scrollbar */
+  	overflow-x: hidden; /* Hide horizontal scrollbar */
 }
