@@ -1,12 +1,9 @@
 #title {
-	font-size:200px;
-	font-family: Arial;
-	background-color: black;
-	color: white;
+	
 	text-align: center;
 	padding: 10px;
 	border: 5px solid white;
-
+	border-style: solid;
 }
 
 
